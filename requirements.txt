@@ -2,3 +2,5 @@ pandas
 numpy
 rdkit
 pyarrow
+scikit-learn
+scipy
