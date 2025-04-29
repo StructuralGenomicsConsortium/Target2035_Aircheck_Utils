@@ -1,8 +1,8 @@
-# 🔬 Target2035 Utilities Repository
+# Target2035 Utilities Repository
 
 This repository provides essential tools and example workflows to support participants in the Target2035 challenge. It includes utilities for molecular fingerprint extraction, data loading, model training, and evaluation.
 
-## 📁 Contents
+## Contents
 
 - **Fingerprint Extraction**  
   Scripts to compute molecular fingerprints (ECFP4, ECFP6, MACCS, etc.) from SMILES and save them into a Parquet file.  
