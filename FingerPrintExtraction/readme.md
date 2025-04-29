@@ -1,4 +1,3 @@
-# **Target2035_Aircheck_Utils**
 
 ## Fingerprint Extraction
 
